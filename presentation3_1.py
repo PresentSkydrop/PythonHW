@@ -1,7 +1,7 @@
 """ 3rd presentation — 26/02/2023
 
 Write a program that assigns the name of 2 items to two variables. If the 2 values are equal, 
-"The items are the same". Othervise, print "The items are different"
+"The items are the same". Otherwise, print "The items are different"
 """
 
 a = "Mirror"
